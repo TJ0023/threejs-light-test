@@ -8,7 +8,7 @@ import { RectAreaLightHelper } from 'three/examples/jsm/helpers/RectAreaLightHel
  */
 // Debug
 const gui = new dat.GUI()
-gui.open(true)
+gui.open(false)
 
 // Canvas
 const canvas = document.querySelector('canvas.webgl')
